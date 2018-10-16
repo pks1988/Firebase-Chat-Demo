@@ -1,0 +1,17 @@
+
+usquid:UselessImportCheck"JRemove this unused import 'com.google.firebase.auth.GoogleAuthCredential'.(®›‘×8±øø—å,
+nsquid:S1301S"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8Ù×õÙá,
+`squid:UnusedPrivateMethodF"/Remove this unused private "verifyUser" method.(ş®ªÀûÿÿÿÿ8Ë³Øåå,
+qsquid:UselessImportCheck"ARemove this unused import 'com.google.android.gms.auth.api.Auth'.(§Ù‚ôøÿÿÿÿ8õš©•æ,
+Msquid:S1481…")Remove this unused "user" local variable.(˜¿èæÿÿÿÿÿ8„”‹™å,
+Ksquid:S1068)"-Remove this unused "mPhotoUrl" private field.(¤¾İÈ8¶ôÙá,
+osquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(óÜ»úÿÿÿÿÿ8ÙÁ‹™å,
+tsquid:S00116,"URename this field "RC_SIGN_IN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÄûÚ8Íãª¢ä,
+Psquid:S1068("-Remove this unused "mUserName" private field.(Š¬Ÿ“şÿÿÿÿ8¢ÅòÙá,
+vsquid:S1450)"XRemove the "mPhotoUrl" field and declare it as a local variable in the relevant methods.(¤¾İÈ8¶ôÙá,
+msquid:MaximumInheritanceDepth "=This class has 10 parents which is greater than 5 authorized.(Ş¯à¡8¶ôÙá,
+{squid:S1450("XRemove the "mUserName" field and declare it as a local variable in the relevant methods.(Š¬Ÿ“şÿÿÿÿ8¢ÅòÙá,
+\"squid:SwitchLastCaseIsDefaultCheckS""Add a default case to this switch.(×“¾ñùÿÿÿÿ8Ù×õÙá,
+lsquid:S00116-"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŒïk8òäÃ£ä,
+gsquid:UselessImportCheck	"7Remove this unused import 'android.widget.FrameLayout'.(ºÍ‹Ùúÿÿÿÿ8›Ÿæšå,
+\squid:S1854…"8Remove this useless assignment to local variable "user".(˜¿èæÿÿÿÿÿ8„”‹™å,
